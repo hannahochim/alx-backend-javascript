@@ -6,7 +6,7 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
-  "author": "Ezechukwu Chinenye Stanley",
+  "author": "Hannah L. Ochim",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
